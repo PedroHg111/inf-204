@@ -1,4 +1,1 @@
-# inf-204
-28006 - Pedro Henrique Gomes Rodrigues 
-
-27964 - Erick Xavier
+# -INF-102-TRABALHOS-2026-I_-ErickXavier-
